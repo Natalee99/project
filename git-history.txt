@@ -1,0 +1,48 @@
+Author: Natalee99 <natalee028@gmail.com>
+Date:   Mon Jun 6 18:31:36 2022 +0200
+
+    delete lorem.txt
+
+commit 729805b031f9b4f5a446d4796db3afb1307e6d92
+Author: Natalee99 <natalee028@gmail.com>
+Date:   Mon Jun 6 18:28:37 2022 +0200
+
+    replace
+
+commit 056352d475887f365dde626dcf00238deee0d0e7
+Author: Natalee99 <natalee028@gmail.com>
+Date:   Mon Jun 6 18:26:01 2022 +0200
+
+    data/lorem.txt
+
+commit e147a8392ee51db613375039f68aed3d5ce83666
+Author: Natalee99 <natalee028@gmail.com>
+Date:   Mon Jun 6 18:19:48 2022 +0200
+
+    new file
+
+commit 80579d8905612fe9d0eb59e538aa5f800f228a50
+Merge: ba406d6 0f14d68
+Author: Natalee99 <natalee028@gmail.com>
+Date:   Mon Jun 6 18:09:13 2022 +0200
+
+    Fix broken link on contact page
+
+commit ba406d6504fec82036929069de4ae3bf84c71f6b
+Author: Natalee99 <natalee028@gmail.com>
+Date:   Mon Jun 6 18:05:24 2022 +0200
+
+    Fix broken link on contact page
+
+commit 0f14d6805d583c995db0ba3e3b1ede0c61940659
+Author: Natalee99 <103202816+Natalee99@users.noreply.github.com>
+Date:   Mon Jun 6 17:54:32 2022 +0200
+
+    Delete .gitignore
+
+commit c355c3cafa3fae5991bb88aa78ad7ec320316857
+Author: Natalee99 <103202816+Natalee99@users.noreply.github.com>
+Date:   Mon Jun 6 17:29:08 2022 +0200
+
+    Initial commit
+(END)
